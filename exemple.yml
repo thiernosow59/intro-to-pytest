@@ -1,1 +1,2 @@
-echo "pour un test"
+run: echo "pour un test"
+run: echo "rrrrrr"
